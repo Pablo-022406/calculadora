@@ -3,7 +3,7 @@ from tkinter import ttk
 from tkinter import PhotoImage
 from tkinter import Canvas, Radiobutton
 from PIL import ImageTk, Image
-from tkinter import ANCHOR, NW, StringVar
+from tkinter import ANCHOR, NW
 from math import sin, cos, tan
 
 
