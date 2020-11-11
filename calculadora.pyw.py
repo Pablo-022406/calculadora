@@ -93,7 +93,7 @@ def init_window():
         canvas.grid(column=0, row=0)   
         entry.grid(column=0, row=1)
         label_operacion.grid(column=0, row=5)
-    boton_sin = tk.Button(window, text="Identidades trigonometricas", command=sinWindow)
+    boton_sin = tk.Button(window, text="Operaciones trigonometricas", command=sinWindow)
     boton_sin.grid(column=0, row=6)
 
     window.mainloop()
